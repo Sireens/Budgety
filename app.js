@@ -3,6 +3,7 @@ var budgetController = (function() {
 
   // Some code
 
+  
 })();
 
 // UI Controller
