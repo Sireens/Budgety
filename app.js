@@ -262,7 +262,7 @@ var controller = (function(budgetCrtl, UICtrl){
       budgetCrtl.deleteItem(type, ID);      
 
       // 2. Delete the item from the UI
-      UI.deleteListItem(itemID);
+      UICtrl.deleteListItem(itemID);
 
       // 3. Update and show the new budget
       updateBudget();       
