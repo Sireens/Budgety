@@ -239,6 +239,13 @@ var UIController = (function() {
       });
     },
 
+    formatNumber: function(num, type) {
+
+      
+
+
+    },
+
     getDOMstrings: function() {
       return DOMstrings;
     }
